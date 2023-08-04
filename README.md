@@ -1,3 +1,3 @@
-Code for paper "Highly Accelerated Wave-encoded MRI Reconstruction Using Deep Untrained Neural Network".
+Code for paper "DPP: Deep Phase Prior for Parallel Imaging with Wave Encoding".
 
 Code will be released once the paper is accepted.
