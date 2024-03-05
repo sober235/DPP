@@ -51,7 +51,7 @@ The study encompasses only the implicit training process executed via "main.py".
 
 ## References
 The author would like to thank Dr. Zhilang Qiu for the helpful discussion. Our implementation was inspired by [Mohammad Zalbagi Darestani](https://scholar.google.com/citations?hl=en&user=Vk6qMDcAAAAJ&view_op=list_works); we are grateful for their contributions.
-The authors also thank Dr. Michael Lusting for Sharing the parallel imaging codes at [here](t https://people.eecs.berkeley.edu/~mlustig/Software.html) to estimate CSM. 
+The authors also thank Dr. Michael Lusting for Sharing the parallel imaging codes at [here](https://people.eecs.berkeley.edu/~mlustig/Software.html) to estimate CSM. 
 
 ## Questions
 
