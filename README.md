@@ -51,7 +51,7 @@ You need to download the data to a specified folder and specify the data path in
   
 ## Usage
 
-The study encompasses only the implicit training process executed via "main.py". The user only needs to execute "main.py" and save the results upon completion of the iteration.
+The study encompasses only the implicit training process executed via "main.py". The user only needs to execute "main.py" and save the results upon completion of the iteration. If you wish to use your own data, adjustments to the "lr_G" and "gain" parameters in "main.py" may be necessary. Our experiments have demonstrated that these two parameters are of primary importance. However, this is not absolute; adjustments to other parameters might also be needed if your work incorporates them.
 
 
 ## References
