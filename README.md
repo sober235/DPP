@@ -49,8 +49,9 @@ You need to download the data to a specified folder and specify the data path in
 ## Usage
 The study encompasses only the implicit training process executed via "main.py".
 
+## Questions
 
-
+If you have any problem, please contact liuc23539@gmail.com
 
 
 
