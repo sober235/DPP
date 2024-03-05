@@ -44,6 +44,8 @@ These datasets can be downloaded [Here](https://pan.baidu.com/s/1hSL922TcgTWxgom
 
 提取码：caqz
 
+You need to download the data to a specified folder and specify the data path in 'data_proc.py' to the path where you downloaded the data.
+  
 ## Usage
 The study encompasses only the implicit training process executed via "main.py".
 
