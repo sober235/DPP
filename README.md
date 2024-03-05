@@ -21,7 +21,7 @@ domain. Furthermore, the proposed model with wave encoding benefits from additio
 Ablation experiments confirm the capability of the proposed DPP model to characterize the background phase accurately. Here, the superiority of the proposed methods is supported by acceleration experiments of acceleration factors 4 and 5, including T1-weighted and T2-weighted imaging. In achieving 4-fold and 5-fold acceleration, the optimal quantitative metrics (PSNR/SSIM/NMSE) are 44.1359 dB/0.9863/0.0008 (4-fold) and 41.2074/0.9846/0.0017 (5-fold), respectively. The DPP delivered much better performance than the conventional methods by exploring accelerated phase-sensitive SWI imaging. In SWI accelerated imaging, it also surpasses the optimal competing method in terms of (PSNR/SSIM/NMSE) with 0.096%/0.009%/0.0017%.
 
 ## Setup
-The following will introduce environment setup, data preparation, usage instructions, experiment weights, and a quick start guide. 
+The following will introduce environment setup, data preparation, usage instructions, and a quick start guide. 
 
 ### Dependencies
 Run the following to install a subset of necessary Python packages for our code
@@ -50,7 +50,9 @@ These datasets can be downloaded at [here](https://pan.baidu.com/s/1hSL922TcgTWx
 You need to download the data to a specified folder and specify the data path in 'data_proc.py' to the path where you downloaded the data.
   
 ## Usage
-The study encompasses only the implicit training process executed via "main.py".
+
+The study encompasses only the implicit training process executed via "main.py". The user only needs to execute "main.py" and save the results upon completion of the iteration.
+
 
 ## References
 The author would like to thank Dr. Zhilang Qiu for the helpful discussion. Our implementation was inspired by [Mohammad Zalbagi Darestani](https://scholar.google.com/citations?hl=en&user=Vk6qMDcAAAAJ&view_op=list_works); we are grateful for their contributions.
