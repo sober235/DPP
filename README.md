@@ -1,4 +1,4 @@
-DPP: Deep Phase Prior for Parallel Imaging with Wave Encoding
+<p align="center">DPP: Deep Phase Prior for Parallel Imaging with Wave Encoding</p>
 ====
 
 Official code for the paper "DPP: Deep Phase Prior for Parallel Imaging with Wave Encoding".
