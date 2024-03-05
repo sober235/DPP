@@ -16,3 +16,10 @@ by [Congcong Liu\*](https://scholar.google.com/citations?user=jGnxZdsAAAAJ&hl=zh
 ##### Approach: To tackle the challenge of accurately estimating the background phase in wave encoding, a novel deep neural network model guided by deep phase priors (DPP) is proposed with integrated virtual conjugate coil (VCC) extension. Concretely, within the proposed framework, the background phase is implicitly characterized by employing a carefully designed decoder convolutional neural network, leveraging the inherent characteristics of phase smoothness and compact support in the transformed
 domain. Furthermore, the proposed model with wave encoding benefits from additional priors, which incorporate transmission sparsity of the latent image and coil sensitivity smoothness.
 ##### Main results: Ablation experiments confirm the capability of the proposed DPP model to characterize the background phase accurately. Here, the superiority of the proposed methods is supported by acceleration experiments of acceleration factors 4 and 5, including T1-weighted and T2-weighted imaging. In achieving 4-fold and 5-fold acceleration, the optimal quantitative metrics (PSNR/SSIM/NMSE) are 44.1359 dB/0.9863/0.0008 (4-fold) and 41.2074/0.9846/0.0017 (5-fold), respectively. The DPP delivered much better performance than the conventional methods by exploring accelerated phase-sensitive SWI imaging. In SWI accelerated imaging, it also surpasses the optimal competing method in terms of (PSNR/SSIM/NMSE) with 0.096%/0.009%/0.0017%.
+
+## Setup
+The following will introduce environment setup, data preparation, usage instructions, experiment weights, and a quick start guide. 
+
+### Dependencies
+Run the following to install a subset of necessary Python packages for our code.
+""
