@@ -29,13 +29,23 @@ pip install -r requirements.txt
 
 ## Data Preparation
 
-#### Illustrative data
+### Illustrative data
 We provide exemplary data to facilitate the replication of our work, aspiring to contribute to the field of scientific research. Due to privacy considerations, we are unable to make all data publicly available. However, this does not impede the overall reproducibility and comprehension of our work.
+
+**Code Functional Hierarchy Description**: the description of the whole code is a combination of the following viewers:
+    
+    * main.py *: Running the main function, including loss calculations, etc.
+    * utils_np.py *: Functional function, including functions such as Fourier transform, crop, etc.
+    * data_proc.py *: Data preprocessing functions, including data reading, transforming, cropping, etc.
+     
 
 These datasets can be downloaded [Here](https://pan.baidu.com/s/1hSL922TcgTWxgomhB0Ailg 
 ) 
 
 提取码：caqz
+
+## Usage
+The study encompasses only the implicit training process executed via "main.py".
 
 
 
