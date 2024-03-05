@@ -26,3 +26,7 @@ Run the following to install a subset of necessary Python packages for our code
 pip install -r requirements.txt
 ```
 * 'Note': The CUDA version required must be 11.2 or higher.
+
+## Data Preparation
+
+Illustrative data
