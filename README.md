@@ -21,5 +21,7 @@ domain. Furthermore, the proposed model with wave encoding benefits from additio
 The following will introduce environment setup, data preparation, usage instructions, experiment weights, and a quick start guide. 
 
 ### Dependencies
-Run the following to install a subset of necessary Python packages for our code.
-""
+Run the following to install a subset of necessary python packages for our code
+```sh
+pip install -r requirements.txt
+```
