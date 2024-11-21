@@ -69,7 +69,6 @@ If you find the code useful for your research, please consider citing
   year={2024},
   publisher={IOP Publishing}}
 ```
-Our implementation is based on [ConvDecoder](https://github.com/MLI-lab/ConvDecoder) by Dr. Mohammad Zalbagi Darestani and Reinhard Heckel. Thanks for their great works!
 ## Questions
 
 If you have any problem, please contact liuc23539@gmail.com
