@@ -1,8 +1,6 @@
-
 <h1 align="center">DPP: Deep Phase Prior for Parallel Imaging with Wave Encoding</h1>
 
-
-Official code for the paper "DPP: Deep Phase Prior for Parallel Imaging with Wave Encoding".
+Official code for the paper "[DPP: Deep Phase Prior for Parallel Imaging with Wave Encoding](https://pubmed.ncbi.nlm.nih.gov/38608645/)", published in PMB 2024.
 
 by [Congcong Liu\*](https://scholar.google.com/citations?user=jGnxZdsAAAAJ&hl=zh-CN), [Zhuo-Xu Cui\*](https://scholar.google.com/citations?user=QZx0xdgAAAAJ&hl=zh-CN), [Sen Jia](https://scholar.google.com/citations?user=aCcLh1oAAAAJ&hl=en), [Jing Cheng](https://scholar.google.com/citations?user=voDu8Y4AAAAJ&hl=zh-CN), [Yuanyuan Liu](https://scholar.google.com/citations?user=Jjf2SSQAAAAJ&hl=zh-CN), Ling Lin, Zhanqi Hu, Taofeng Xie, [Yihang Zhou](https://scholar.google.com/citations?user=l_O7i1oAAAAJ&hl=en), [Yanjie Zhu](https://scholar.google.com/citations?user=X2mIoQ4AAAAJ&hl=en), [Dong Liang](https://scholar.google.com/citations?user=3cAJWoIAAAAJ&hl=zh-CN), Hongwu Zeng+, and [Haifeng Wang\+](https://scholar.google.com/citations?user=Ao4Q2uAAAAAJ&hl=en).
 
@@ -58,6 +56,20 @@ The study encompasses only the implicit training process executed via "main.py".
 The author would like to thank Dr. Zhilang Qiu for the helpful discussion. Our implementation was inspired by [Mohammad Zalbagi Darestani](https://scholar.google.com/citations?hl=en&user=Vk6qMDcAAAAJ&view_op=list_works); we are grateful for their contributions.
 The authors also thank Dr. Michael Lusting for Sharing the parallel imaging codes at [here](https://people.eecs.berkeley.edu/~mlustig/Software.html) to estimate CSM. 
 
+If you find the code useful for your research, please consider citing
+
+```bib
+@article{liu2024dpp,
+  title={DPP: deep phase prior for parallel imaging with wave encoding},
+  author={Liu, Congcong and Cui, Zhuo-Xu and Jia, Sen and Cheng, Jing and Liu, Yuanyuan and Lin, Ling and Hu, Zhanqi and Xie, Taofeng and Zhou, Yihang and Zhu, Yanjie and others},
+  journal={Physics in Medicine \& Biology},
+  volume={69},
+  number={10},
+  pages={105013},
+  year={2024},
+  publisher={IOP Publishing}}
+```
+Our implementation is based on [ConvDecoder](https://github.com/MLI-lab/ConvDecoder) by Dr. Mohammad Zalbagi Darestani and Reinhard Heckel. Thanks for their great works!
 ## Questions
 
 If you have any problem, please contact liuc23539@gmail.com
