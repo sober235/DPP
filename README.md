@@ -43,7 +43,7 @@ We provide exemplary data to facilitate the replication of our work, aspiring to
 These datasets can be downloaded at [here](https://pan.baidu.com/s/1hSL922TcgTWxgomhB0Ailg 
 ) 
 
-提取码：caqz
+Extract code：caqz
 
 You need to download the data to a specified folder and specify the data path in 'data_proc.py' to the path where you downloaded the data.
   
